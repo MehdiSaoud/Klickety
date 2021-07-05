@@ -4,7 +4,7 @@ Mini-projet étudiant Klickety
 
 ## Prérequis
 
-Python
+Python3
 
 ## Compilation
 
